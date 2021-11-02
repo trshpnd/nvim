@@ -9,7 +9,7 @@ endif
 call plug#begin('~/.config/nvim/autoload/plugged')
 
     Plug 'jiangmiao/auto-pairs'                     " Auto pairs for '(' '[' '{'
-    Plug 'joshdick/onedark.vim'                     " Onedark theme for vim.
+    "Plug 'joshdick/onedark.vim'                     " Onedark theme for vim.
     Plug 'chriskempson/base16-vim'                  " Base-16 themes for vim.
     Plug 'neoclide/coc.nvim', {'branch': 'release'} " CoC - code snippet and text support
     "Plug 'kyazdani42/nvim-tree.lua'                " File Explorer for neovim.
@@ -21,6 +21,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'glepnir/dashboard-nvim'                   " Dashboard for neovim
     Plug 'kyazdani42/nvim-web-devicons'             " Display icons in tabs and file explorer.
     Plug 'romgrk/barbar.nvim'                       " Tab bar for neovim.
-    "Plug 'Yggdroot/indentLine'                      " Indent lines for coding.
+    Plug 'Yggdroot/indentLine'                      " Indent lines for coding.
 
 call plug#end()
