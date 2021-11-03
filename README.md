@@ -1,6 +1,9 @@
 # nvim
 My personal neovim build, inspired by [NvChad](https://github.com/NvChad/NvChad). Tries to keep things simple and lightweight while still being functional and aesthetically pleasant.
 
+<img src="https://raw.githubusercontent.com/trshpnd/dotfiles/master/2021-11-02_23-02.png"><hr>
+<img src="https://raw.githubusercontent.com/trshpnd/dotfiles/master/2021-11-02_23-08.png"><hr>
+
 Plugins Included:
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs)
 - [barbar](https://github.com/romgrk/barbar.nvim) + [nvim-web-devicons](https://kyazdani42/nvim-web-devicons)
