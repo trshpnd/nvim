@@ -4,7 +4,7 @@ My personal neovim build, inspired by [NvChad](https://github.com/NvChad/NvChad)
 <img src="https://raw.githubusercontent.com/trshpnd/dotfiles/master/2021-11-02_23-02.png"><hr>
 <img src="https://raw.githubusercontent.com/trshpnd/dotfiles/master/2021-11-02_23-08.png"><hr>
 
-Plugins Included:
+## Plugins Included
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs)
 - [barbar](https://github.com/romgrk/barbar.nvim) + [nvim-web-devicons](https://kyazdani42/nvim-web-devicons)
 - [base16-vim](https://github.com/chriskempson/base16-vim)
