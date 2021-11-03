@@ -25,7 +25,7 @@ Plugins Included:
     cd .config
     git clone https://github.com/trshpnd/nvim
     ```
-4. Run neovim and install plugins. You can check the plugins included in this build prior to the installation with:
+4. Run neovim. Some error messages will pop-up, because you still need to install the plugin packages. Check the plugins included in this build prior to the installation with:
 
     ```
     :PlugStatus
@@ -36,6 +36,19 @@ Plugins Included:
     :PlugInstall
     ```
 5. Restart neovim.
+6. Optional: install [coc-explorer](https://github.com/weirongxu/coc-explorer), a coc file explorer. Inside neovim, run:
+
+    ```
+    :CocInstall coc-explorer
+    ```
+    Alternatively, you can install another file explorer such as [NERDTree](https://github.com/preservim/nerdtree), or install none at all.
+7. Optional (2): install language support extensions for coc. Examples:
+
+    ```
+    :CocInstall coc-json coc-tsserver
+    ```
+    
+    Extensions for additional languages can be found [here](https://medium.com/@chemzqm/create-coc-nvim-extension-to-improve-vim-experience-4461df269173).
 
 ## Customization
 Further tweaking and more personal configs such as color themes and dashboard greeting screen can be easily done by modifying .vim files.
