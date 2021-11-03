@@ -8,7 +8,7 @@ Plugins Included:
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs)
 - [barbar](https://github.com/romgrk/barbar.nvim) + [nvim-web-devicons](https://kyazdani42/nvim-web-devicons)
 - [base16](https://github.com/chriskempson/base16-vim)
-- [coc](https://github.com/neoclide/coc.nvim)
+- [coc](https://github.com/neoclide/coc.nvim) + [coc-explorer](https://github.com/weirongxu/coc-explorer)
 - [dashboard-nvim](https://github.com/glepnir/dashboard)
 - [indentLine](https://github.com/Yggdroot/indentLine)
 - [vim-airline](https://github.com/vim-airline/vim-airline) + [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
