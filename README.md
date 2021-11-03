@@ -25,24 +25,19 @@ My personal neovim build, inspired by [NvChad](https://github.com/NvChad/NvChad)
     cd .config
     git clone https://github.com/trshpnd/nvim
     ```
-4. Run neovim. Some error messages will pop-up, because you still need to install the plugin packages. Check the plugins included in this build prior to the installation with:
-
-    ```
-    :PlugStatus
-    ```
-  - If you're satisfied with the plugins included in this build, run:
+4. Run neovim and type the following command:
   
     ```
     :PlugInstall
     ```
 5. Restart neovim.
-6. Optional: install [coc-explorer](https://github.com/weirongxu/coc-explorer), a coc file explorer. Inside neovim, run:
+6. **Optional**: install [coc-explorer](https://github.com/weirongxu/coc-explorer), a coc file explorer. Inside neovim, run:
 
     ```
     :CocInstall coc-explorer
     ```
     Alternatively, you can install another file explorer such as [NERDTree](https://github.com/preservim/nerdtree), or install none at all.
-7. Optional (2): install language support extensions for coc. Examples:
+7. **Optional** (2): install language support extensions for coc. Examples:
 
     ```
     :CocInstall coc-json coc-tsserver
@@ -50,7 +45,7 @@ My personal neovim build, inspired by [NvChad](https://github.com/NvChad/NvChad)
     
     Extensions for additional languages can be found [here](https://medium.com/@chemzqm/create-coc-nvim-extension-to-improve-vim-experience-4461df269173).
     
-    **Coc may require further adjustments to work properly. Check its main repository for more details.** 
+    **CoC may require further adjustments to work properly. Check its main repository for more details.** 
 
 ## Customization
 Further tweaking and more personal configs such as color themes and dashboard greeting screen can be easily done by modifying .vim files.
