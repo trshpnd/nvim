@@ -17,7 +17,7 @@ Plugins Included:
 
 ## Installation
 
-1. Install neovim. In case you already have an instance of neovim installed in your system, rename or make a backup of your .config/nvim folder.
+1. Install neovim. In case you already have an instance of neovim installed in your system, rename or make a backup of your ```~/.config/nvim``` folder.
 2. Install vim-plug, a plugin manager for vim and neovim.
 3. Clone this repository into .config:
 
@@ -49,6 +49,8 @@ Plugins Included:
     ```
     
     Extensions for additional languages can be found [here](https://medium.com/@chemzqm/create-coc-nvim-extension-to-improve-vim-experience-4461df269173).
+    
+    **Coc may require further adjustments to work properly. Check its main repository for more details.** 
 
 ## Customization
 Further tweaking and more personal configs such as color themes and dashboard greeting screen can be easily done by modifying .vim files.
