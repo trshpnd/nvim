@@ -31,7 +31,7 @@ My personal neovim build, inspired by [NvChad](https://github.com/NvChad/NvChad)
     :PlugInstall
     ```
 5. Restart neovim.
-6. **Optional**: install [coc-explorer](https://github.com/weirongxu/coc-explorer), a coc file explorer. Inside neovim, run:
+6. **Optional**: install [coc-explorer](https://github.com/weirongxu/coc-explorer), a file explorer extension for CoC. Inside neovim, run:
 
     ```
     :CocInstall coc-explorer
