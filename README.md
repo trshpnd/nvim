@@ -31,13 +31,13 @@ My personal neovim build, inspired by [NvChad](https://github.com/NvChad/NvChad)
     :PlugInstall
     ```
 5. Restart neovim.
-6. **Optional**: install [coc-explorer](https://github.com/weirongxu/coc-explorer), a file explorer extension for CoC. Inside neovim, run:
+6. **Optional**: install [coc-explorer](https://github.com/weirongxu/coc-explorer), a built-in file explorer extension for CoC. Inside neovim, run:
 
     ```
     :CocInstall coc-explorer
     ```
     Alternatively, you can install another file explorer such as [NERDTree](https://github.com/preservim/nerdtree), or install none at all.
-7. **Optional** (2): install language support extensions for coc. Examples:
+7. **Optional** (2): install language support extensions for CoC. Examples:
 
     ```
     :CocInstall coc-json coc-tsserver
